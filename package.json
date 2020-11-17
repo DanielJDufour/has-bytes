@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/DanielJDufour/has-bytes#readme",
   "dependencies": {
-    "has-subarrays": "0.0.1"
+    "has-subarrays": "0.0.2"
   }
 }
