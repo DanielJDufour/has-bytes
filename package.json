@@ -1,0 +1,30 @@
+{
+  "name": "has-bytes",
+  "version": "0.0.0",
+  "description": "Quickly Determine if an Array Buffer, Buffer, or Uint8Array contains Specific Sequences of Bytes",
+  "main": "has-bytes.js",
+  "scripts": {
+    "format": "npx prettier --arrow-parens=avoid --trailing-comma=none --write *.js",
+    "test": "ava --verbose *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/has-bytes.git"
+  },
+  "keywords": [
+    "array",
+    "sequences",
+    "bytes",
+    "subsequences",
+    "uint8array"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/has-bytes/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/has-bytes#readme",
+  "dependencies": {
+    "has-subarrays": "0.0.1"
+  }
+}
