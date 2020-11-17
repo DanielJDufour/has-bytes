@@ -1,6 +1,6 @@
 {
   "name": "has-bytes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Quickly Determine if an Array Buffer, Buffer, or Uint8Array contains Specific Sequences of Bytes",
   "main": "has-bytes.js",
   "scripts": {
